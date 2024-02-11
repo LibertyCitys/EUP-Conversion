@@ -1,4 +1,5 @@
 # Outfit Conversion Tool
+# PICK YOUR VERSION FIRST https://github.com/LibertyCitys/EUP-Conversion/releases
 
 ## Description
 The Outfit Conversion Tool is a Python script designed to streamline the process of converting outfit configurations from an INI file format to JSON format. This tool is particularly useful for gamers and modders who utilize outfit presets in their modifications, such as those found in the Emergency Uniforms Pack (EUP) for Grand Theft Auto V (GTA V).
