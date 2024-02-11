@@ -15,7 +15,7 @@ The tool automates the conversion process, eliminating the need for manual inter
 - Python 3.x
 
 ## Authors
-- Tool developed by LCPDFR (https://github.com/LibertyCitys)
+- Tool developed by LCPDFR https://github.com/LibertyCitys
 
 ## License
 This tool is licensed under the MIT License. See the LICENSE file for details.
